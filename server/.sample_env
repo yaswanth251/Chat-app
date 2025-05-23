@@ -1,0 +1,11 @@
+MONGO_URI=mongodb+srv://spidey:spidey%40123@chatappcluster.pbbgs.mongodb.net/?retryWrites=true&w=majority&appName=chatAppcluster
+
+PORT=3000
+JWT_SECRET=fasjfainasdfakfja
+ADMIN_SECRET_KEY=spidey
+
+NODE_ENV=DEVELOPMENT
+CLIENT_URL = 
+CLOUDINARY_CLOUD_NAME=dx0fdn3mj
+CLOUDINARY_API_KEY=444868399741379
+CLOUDINARY_API_SECRET=e4DUsmWEajWOGTEBykqLf8gjRyQ
